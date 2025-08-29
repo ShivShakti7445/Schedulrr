@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <a href="#" target="_blank">
-    <img src="https://t4.ftcdn.net/jpg/03/79/40/09/360_F_379400937_dUYIQ7yzPK0PbB9TukDe3InmGRxVcsG5.jpg" alt="Project Banner" width="850" style="border-radius: 20px; box-shadow: 0px 8px 20px rgba(0,0,0,0.3);">
+    <img src="https://cdn.brandfetch.io/timeflex-us.com/fallback/transparent/w/1200/h/400/banner?c=1bfwsmEH20zzEfSNTed" alt="Project Banner" width="850" style="border-radius: 20px; box-shadow: 0px 8px 20px rgba(0,0,0,0.3);">
   </a>
   <br/><br/>
 
