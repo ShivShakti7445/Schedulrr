@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="#" target="_blank">
-      <img src="https://png.pngtree.com/png-clipart/20220510/original/pngtree-work-schedule-organization-banner-kanban-png-image_7696579.png" alt="Project Banner">
+      <img src="https://cdn.brandfetch.io/timeflex-us.com/fallback/transparent/w/1200/h/400/banner?c=1bfwsmEH20zzEfSNTed" alt="Project Banner">
     </a>
   <br />
 
